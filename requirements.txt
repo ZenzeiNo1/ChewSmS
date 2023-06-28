@@ -1,0 +1,7 @@
+requests
+re
+random
+string
+from concurrent.futures
+discord.ext
+asyncio
